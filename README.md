@@ -26,10 +26,12 @@ This is a useful list of resources related to Computational Biology and Bioinfor
 - [Cistrome] (http://cistrome.org/)
 
 ### Fourums
+
 - [Biostars](https://www.biostars.org/)
 - [SeqAnswers](http://seqanswers.com/)
 
 ### Career
+
 - http://www.bioinformatics.org/jobs/
 - http://bioinformatics.ca/jobs
 - https://www.academics.com/
@@ -38,9 +40,8 @@ This is a useful list of resources related to Computational Biology and Bioinfor
 ### Blogs
 
 - [RNA-seq Blog ](http://www.rna-seqblog.com/)
-- 
 
 ### Other resources
+
 - [OMIC tools](http://omictools.com/)
-- 
 
