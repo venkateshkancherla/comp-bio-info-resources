@@ -25,7 +25,6 @@ This is a useful list of resources related to Computational Biology and Bioinfor
 - [Galaxy](https://usegalaxy.org/)
 - [Cistrome](http://cistrome.org/)
 
-
 ### Fourums
 
 - [Biostars](https://www.biostars.org/)
