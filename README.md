@@ -1,5 +1,5 @@
-## A resource list useful for Computational Biology and Bioinformatics
-This is a useful list of resources for Computational Biology and Bioinformatics
+## A resource list in computational biology and bioinformatics
+This is a useful list of resources related to Computational Biology and Bioinformatics
 
 ### R/Bioconductor Tutorials
 - [Bioconductor cheat sheet](https://github.com/mikelove/bioc-refcard)
