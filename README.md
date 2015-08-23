@@ -11,7 +11,7 @@ This is a useful list of resources related to Computational Biology and Bioinfor
 - [D3.js](http://d3js.org/)
 - [Circos](http://circos.ca/)
 - [Cytoscape](http://www.cytoscape.org/)
-- 
+
 ### Online Courses and Training
 - [MOOCs on Computational Biology and Bioinformatics](https://github.com/asntech/comp-bio-moocs)
 - [Train online with EMBL-EBI](http://www.ebi.ac.uk/training/online/)
@@ -24,6 +24,7 @@ This is a useful list of resources related to Computational Biology and Bioinfor
 
 - [Galaxy](https://usegalaxy.org/)
 - [Cistrome](http://cistrome.org/)
+
 
 ### Fourums
 
