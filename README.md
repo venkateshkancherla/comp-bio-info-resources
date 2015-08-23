@@ -22,8 +22,8 @@ This is a useful list of resources related to Computational Biology and Bioinfor
 - [edx(http:edx.org)
 - [Coursera](http://coursera.org)
 
-- [Galaxy] (https://usegalaxy.org/)
-- [Cistrome] (http://cistrome.org/)
+- [Galaxy](https://usegalaxy.org/)
+- [Cistrome](http://cistrome.org/)
 
 ### Fourums
 
