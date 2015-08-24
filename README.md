@@ -31,7 +31,7 @@ This is a useful list of resources related to Computational Biology and Bioinfor
 - [SeqAnswers](http://seqanswers.com/)
 
 ### Career
-
+- [A career planning guide](https://github.com/jtleek/careerplanning), by [Jeff L.](http://biostat.jhsph.edu/~jleek/)
 - http://www.bioinformatics.org/jobs/
 - http://bioinformatics.ca/jobs
 - https://www.academics.com/
