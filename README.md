@@ -4,6 +4,7 @@ This is a useful list of resources related to Computational Biology and Bioinfor
 ### R/Bioconductor Tutorials
 - [Bioconductor cheat sheet](https://github.com/mikelove/bioc-refcard)
 - [Bioinformatics one-liners](https://github.com/stephenturner/oneliners)
+- [Recreating a famous visualisation](https://biomickwatson.wordpress.com/2015/04/09/recreating-a-famous-visualisation/)
 
 ### Data Visualization
 - [ggplot2](http://ggplot2.org/)
