@@ -1,6 +1,7 @@
 ## A resource list in computational biology and bioinformatics
 This is a useful list of resources related to Computational Biology and Bioinformatics
 
+
 ### R/Bioconductor Tutorials
 - [Bioconductor cheat sheet](https://github.com/mikelove/bioc-refcard)
 - [Bioinformatics one-liners](https://github.com/stephenturner/oneliners)
@@ -43,6 +44,6 @@ This is a useful list of resources related to Computational Biology and Bioinfor
 - [RNA-seq Blog ](http://www.rna-seqblog.com/)
 
 ### Other resources
-
+- [Resources on ChIP-seq data analysis](https://github.com/crazyhottommy/ChIP-seq-analysis) 
 - [OMIC tools](http://omictools.com/)
 
